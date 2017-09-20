@@ -1,0 +1,33 @@
+html {
+  background-color: #333941;
+  background-image: url("../images/line.svg");
+  background-repeat: repeat-x;
+  background-size: 12px;
+    font-family: 'Bitter', serif;
+}
+
+.name {
+  width: 50%;
+  padding-top: 100px;
+}
+
+main {
+  background-color: #292E37;
+  width: 75%;
+  margin: auto;
+  color: #fff;
+  margin-top: 10em;
+}
+
+.color {
+  color: #E77F60;
+}
+
+.icon {
+  width: 96px;
+}
+
+footer {
+  background-color: #292E37;
+  color: #E77F60;
+}
