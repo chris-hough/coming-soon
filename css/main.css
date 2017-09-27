@@ -6,17 +6,12 @@ html {
     font-family: 'Bitter', serif;
 }
 
-.name {
-  width: 50%;
-  padding-top: 100px;
-}
-
 main {
   background-color: #292E37;
-  width: 75%;
+  width: 80%;
   margin: auto;
   color: #fff;
-  margin-top: 10em;
+  margin-top: 1em;
 }
 
 .color {
@@ -25,9 +20,4 @@ main {
 
 .icon {
   width: 96px;
-}
-
-footer {
-  background-color: #292E37;
-  color: #E77F60;
 }
