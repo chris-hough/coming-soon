@@ -3,7 +3,7 @@ html {
   background-image: url("../images/line.svg");
   background-repeat: repeat-x;
   background-size: 12px;
-    font-family: 'Bitter', serif;
+  font-family: 'Bitter', serif;
 }
 
 main {
@@ -11,7 +11,7 @@ main {
   width: 80%;
   margin: auto;
   color: #fff;
-  margin-top: 1em;
+  margin-top: 10%;
 }
 
 .color {
@@ -21,3 +21,9 @@ main {
 .icon {
   width: 96px;
 }
+
+@media only screen and (min-width: 38em) {
+
+  .email {
+    float: right;
+  }
